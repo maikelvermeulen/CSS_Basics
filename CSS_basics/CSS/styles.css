@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(2, 100, 15, 0.39);
+    color:#333333;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.page-header {
+    background-color: grey;
+    border: 4px solid black;
+    color:#ffffff;
+    text-align: center;
+}
+.page-header-description {
+    text-align: center;
+    font-size: 12px;
+}
+#black-box {
+    background-color: #333333;
+    border: 4px solid black;
+    color:white;
+    width: 400px
+}
+.img-border {
+    border: 4px solid black;
+}
